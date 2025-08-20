@@ -17,8 +17,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** HTML, CSS, JavaScript, Python, PHP  
-- **Banco de Dados:** MySQL, SQLite  
-- **Ferramentas:** Git, GitHub, Figma, VS Code  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, Figma, Canva, Uizard.io, VS Code  
 - **Conceitos:** Design Thinking, DCU (Design Centrado no Usuário)  
 
 ---
